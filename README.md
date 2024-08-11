@@ -28,3 +28,6 @@ After installing the Kompose tool, you need to have a `docker-compose.yml` file.
 ```
 Now we have some manifest file ready to deploy on kubernetes cluster.
 
+![image](https://github.com/user-attachments/assets/e4d85303-144a-4b35-aca4-b2226da5f42d)
+
+

@@ -1,4 +1,4 @@
-# Kompose Example
+# Kompose project
 
 This repository contains a basic example of using the Kompose tool to convert a Docker Compose file into Kubernetes manifests.
 ## what is kompose?

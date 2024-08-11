@@ -8,15 +8,18 @@ This repository contains a basic example of using the Kompose tool to convert a 
 ```bash
 wget https://github.com/kubernetes/kompose/releases/download/v1.24.0/kompose-linux-amd64
 ```
-2- Make the binary executable : 
+2- **Make the binary executable** : 
+```bash
 chmod +x kompose-linux-amd64
-
-3- Move the binary to a directory in your PATH:
+```
+3- **Move the binary to a directory in your PATH** :
+```bash
 sudo mv kompose-linux-amd64 /usr/local/bin/kompose
-
-4- Verify the installation: 
+```
+4- **Verify the installation**:
+```bash
  kompose version
-
+```
 ## Getting Started
 
 

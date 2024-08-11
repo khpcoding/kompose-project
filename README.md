@@ -1,7 +1,8 @@
 # Kompose project
-
 This repository contains a basic example of using the Kompose tool to convert a Docker Compose file into Kubernetes manifests.
+
 ## what is kompose?
+Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift). It allows developers to maintain a single source of truth for their application by converting their Docker Compose files into Kubernetes manifests
 
 ## Installation 
 1- **First, you need to download the Kompose** :

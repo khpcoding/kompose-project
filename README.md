@@ -4,9 +4,10 @@ This repository contains a basic example of using the Kompose tool to convert a 
 ## what is kompose?
 
 ## Installation 
-1- First, you need to download the Kompose : 
+1- **First, you need to download the Kompose** :
+```bash
 wget https://github.com/kubernetes/kompose/releases/download/v1.24.0/kompose-linux-amd64
-
+```
 2- Make the binary executable : 
 chmod +x kompose-linux-amd64
 

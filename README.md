@@ -20,6 +20,9 @@ sudo mv kompose-linux-amd64 /usr/local/bin/kompose
 ```bash
  kompose version
 ```
-## Getting Started
-
-
+## Usage
+After installing the Kompose tool, you need to have a `docker-compose.yml` file. Here, we have a file to set up a Nextcloud application. By running the command**
+```bash
+ kompose convert --file docker-compose.yml
+```
+**, the Docker Compose file will be converted into the necessary manifest files for running it on a Kubernetes platform.
